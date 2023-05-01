@@ -10,7 +10,7 @@ mongoengine==0.23.1
 pymongo==3.11.3
 numpy==1.21.4
 faker==9.9.0
-Flask==2.0.2
+Flask==2.3.2
 minio==7.1.2
 cassandra-driver==3.25.0
 confluent-kafka==1.7.0
